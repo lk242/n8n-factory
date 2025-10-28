@@ -1,0 +1,20 @@
+{
+  "recoveryRate": 68.4,
+  "sampleSize": 1245,
+  "sentimentAverage": 0.32,
+  "topTopics": [
+    { "topic": "客服體驗", "score": 92 },
+    { "topic": "產品滿意度", "score": 88 },
+    { "topic": "價格方案", "score": 75 },
+    { "topic": "功能需求", "score": 64 }
+  ],
+  "trend": [
+    { "date": "Day 1", "completionRate": 60, "responses": 120 },
+    { "date": "Day 2", "completionRate": 65, "responses": 150 },
+    { "date": "Day 3", "completionRate": 70, "responses": 180 },
+    { "date": "Day 4", "completionRate": 72, "responses": 200 },
+    { "date": "Day 5", "completionRate": 75, "responses": 220 },
+    { "date": "Day 6", "completionRate": 80, "responses": 240 },
+    { "date": "Day 7", "completionRate": 82, "responses": 260 }
+  ]
+}
